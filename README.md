@@ -1,2 +1,2 @@
 # Certificaciones-Cisco
-Certificaciones otorgadas por Networking Academy
+Certificaciones otorgadas por Cisco Networking Academy
